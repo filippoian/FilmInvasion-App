@@ -1,0 +1,17 @@
+{
+  "name": "FilmInvasion",
+  "short_name": "FilmInvasion",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ffcc00",
+  "description": "App per guardare film",
+  "icons": [
+    {
+      "src": "/icon.jpg",
+      "sizes": "192x192 512x512 1024x1024",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
